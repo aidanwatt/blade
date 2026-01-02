@@ -1,5 +1,5 @@
 {
-    "name": "jenssegers/blade",
+    "name": "aidanwatt/blade",
     "description": "The standalone version of Laravel's Blade templating engine for use outside of Laravel.",
     "keywords": ["laravel", "blade", "template", "view", "render"],
     "license" : "MIT",
@@ -11,8 +11,8 @@
     ],
     "require": {
         "php": ">=8.1",
-        "illuminate/view": "^9.0|^10.0|^11.0",
-        "illuminate/config": "^9.0|^10.0|^11.0"
+        "illuminate/view": "^9.0|^10.0|^11.0|^12.0",
+        "illuminate/config": "^9.0|^10.0|^11.0|^12.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^10.0",

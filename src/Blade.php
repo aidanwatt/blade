@@ -1,6 +1,6 @@
 <?php
 
-namespace Jenssegers\Blade;
+namespace Aidanwatt\Blade;
 
 use Illuminate\Config\Repository;
 use Illuminate\Contracts\Container\Container as ContainerInterface;
