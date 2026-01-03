@@ -120,6 +120,7 @@ class Blade implements FactoryContract
             'view.compiled' => $cachePath,
         ]));
 
+        $this->container::setInstance($this->container);
         Facade::setFacadeApplication($this->container);
     }
 }
